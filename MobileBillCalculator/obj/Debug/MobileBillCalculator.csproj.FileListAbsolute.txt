@@ -1,0 +1,14 @@
+G:\Web Tamplate\practice\MobileBillCalculator\MobileBillCalculator\bin\Debug\MobileBillCalculator.exe.config
+G:\Web Tamplate\practice\MobileBillCalculator\MobileBillCalculator\bin\Debug\MobileBillCalculator.exe
+G:\Web Tamplate\practice\MobileBillCalculator\MobileBillCalculator\bin\Debug\MobileBillCalculator.pdb
+G:\Web Tamplate\practice\MobileBillCalculator\MobileBillCalculator\obj\Debug\MobileBillCalculator.csprojAssemblyReference.cache
+G:\Web Tamplate\practice\MobileBillCalculator\MobileBillCalculator\obj\Debug\MobileBillCalculator.csproj.CoreCompileInputs.cache
+G:\Web Tamplate\practice\MobileBillCalculator\MobileBillCalculator\obj\Debug\MobileBillCalculator.exe
+G:\Web Tamplate\practice\MobileBillCalculator\MobileBillCalculator\obj\Debug\MobileBillCalculator.pdb
+D:\MobileBillCalculator-master\MobileBillCalculator-master\MobileBillCalculator\bin\Debug\MobileBillCalculator.exe.config
+D:\MobileBillCalculator-master\MobileBillCalculator-master\MobileBillCalculator\bin\Debug\MobileBillCalculator.exe
+D:\MobileBillCalculator-master\MobileBillCalculator-master\MobileBillCalculator\bin\Debug\MobileBillCalculator.pdb
+D:\MobileBillCalculator-master\MobileBillCalculator-master\MobileBillCalculator\obj\Debug\MobileBillCalculator.csprojAssemblyReference.cache
+D:\MobileBillCalculator-master\MobileBillCalculator-master\MobileBillCalculator\obj\Debug\MobileBillCalculator.csproj.CoreCompileInputs.cache
+D:\MobileBillCalculator-master\MobileBillCalculator-master\MobileBillCalculator\obj\Debug\MobileBillCalculator.exe
+D:\MobileBillCalculator-master\MobileBillCalculator-master\MobileBillCalculator\obj\Debug\MobileBillCalculator.pdb
